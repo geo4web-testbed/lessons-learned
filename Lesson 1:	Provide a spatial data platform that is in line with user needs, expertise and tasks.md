@@ -6,7 +6,8 @@ A spatial data publication platform is an online platform which different users 
 
 Because different users:
 
-1.	need different information, 
+1.	need different information,
+
     _for example a user who is interested in locations of bicycle stands, does not need a map with both bicycle stands and trees on it_.
 2.	have different expertise 
     _for example GIS-experts have more experience in editing topographic objects in a map, then a non-GIS-user._ 
