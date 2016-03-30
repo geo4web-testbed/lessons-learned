@@ -23,7 +23,7 @@ These features increase the ease of use and intended use:
 1. _Ensure good search functionality_, for example let users search for whole datasets or single objects based on space, time and theme (keyword or category).
 2. _Hide specialists functions for non-expert users_, for example do not give ordinary users not the option to perform coordinate transformation.
 3. _Grant privileges and roles to users (aka user management),_ for example work with a base layer and an edit layer, whereby the owner of the dataset (who is responsible for the correctness of the data) can commit changes made by an ordinary user from the edit layer to the base layer.
-4. _Translate the termonoligy of the data into the language of the user_, 
+4. _Translate the terminology of the data into the language of the user_, 
 for example, create a link table to convert from formal designation 'greening' to plain language 'park'. 
 
 #####How to test
