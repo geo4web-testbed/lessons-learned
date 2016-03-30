@@ -13,8 +13,7 @@ Because different users:
 
 #####Intended outcome
 
-A platform that adapts the data and features to the user.
-
+A platform that adapts the data and features to the user, which is easy to use, creating a community.
 
 #####Possible approach
 User centred design of the platform applies: extensive attention should be given to needs, wants and limitations of the end-user. The platform has to be kept as simple as possible, in order to make it approachable for expert and non-expert owners and users of spatial data.
