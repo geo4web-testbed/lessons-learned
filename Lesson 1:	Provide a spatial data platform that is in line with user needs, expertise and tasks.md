@@ -24,6 +24,7 @@ A platform that adapts the data and features to the user.
 User centred design of the platform applies: extensive attention should be given to needs, wants and limitations of the end-user. The platform has to be kept as simple as possible, in order to make it approachable for expert and non-expert owners and users of spatial data.
 
 These features increase the ease of use and intended use:
+
 1. Ensure good search functionality, 
 _for example let users search for whole datasets or single objects based on space, time and theme (keyword or category)._
 2. Hide specialists functions for non-expert users, 
